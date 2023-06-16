@@ -106,7 +106,7 @@ canvas.particles-js-canvas-el{
         font-size: 15px;
     }
     .hero_section .row button{
-        font-size: 15px;
+        font-size: 12px;
     }
 }
 @media (max-width: 763px) and (min-width: 500px){
@@ -140,7 +140,7 @@ canvas.particles-js-canvas-el{
     .hero_section .btn_container button{
         width: 100px;
         height: 43px;
-        font-size: 15px;
+        font-size: 12px;
         text-align: center;
     }
     .hero_section img{
